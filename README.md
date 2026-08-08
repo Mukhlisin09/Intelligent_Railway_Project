@@ -2,7 +2,7 @@
 
 This repository contains the source code and implementation of a YOLOv8n-based real-time vehicle detection method developed for an intelligent railway level crossing system. The method is designed to detect vehicles within the railway crossing area using computer vision and provide real-time information to support automated level crossing safety mechanisms.
 
-The implementation uses YOLOv8n (YOLOv8 Nano) to achieve a balance between detection accuracy and computational efficiency, making the method suitable for real-time and edge-computing applications.
+The implementation uses YOLOv8n (YOLOv8 Nano) to achieve a balance between detection accuracy and computational efficiency, making the method suitable for real-time and edge-computing applications. To run this script code, you need to download data test video on:https://www.youtube.com/watch?v=Rl4O--HaReM 
 
 **Method Overview**
 The proposed method consists of the following main stages:
